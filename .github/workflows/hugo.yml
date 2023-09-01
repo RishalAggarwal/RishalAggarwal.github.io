@@ -50,6 +50,8 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: install postcss
         run: npm install postcss-cli
+      - name: install autoprefixer
+        run: npm install autoprefixer@latest cross-env --save-dev
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
