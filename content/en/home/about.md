@@ -5,7 +5,7 @@ permalink: /aboutme/
 weight: 1
 ---
 
-Hi, I'm Rishal a PhD student in the Joint CMU-Pitt Computational Biology program. I am advised by Dr. David Koes at the University of Pittsburgh. I work in the interesction of Machine Learning, Structural Biology and Drug Design. My main motivation to pursue this field is to translate machine learning methods to applications with real world impact. I also love the interdisciplinary nature of computational structural biology as it borrows concepts from physics, chemistry, biology, mathematics and computer science. I have listed below some of the topics on which I am currently developing my projects.
+Hi, I'm Rishal a PhD student in the [Joint CMU-Pitt Computational Biology program](https://www.compbio.cmu.edu/). I am advised by [Dr. David Koes](https://bits.csb.pitt.edu/) at the University of Pittsburgh. I work in the interesction of Machine Learning, Structural Biology and Drug Design. My main motivation to pursue this field is to translate machine learning methods to applications with real world impact. I also love the interdisciplinary nature of computational structural biology as it borrows concepts from physics, chemistry, biology, mathematics and computer science. I have listed below some of the topics on which I am currently developing my projects.
 
 ### Topics of interest:
 
