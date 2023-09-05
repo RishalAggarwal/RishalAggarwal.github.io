@@ -14,7 +14,7 @@ Hi, I'm Rishal a PhD student in the [Joint CMU-Pitt Computational Biology progra
 * Connections between machine learning and statistical mechanics
 * Enhanced sampling for molecular dynamics
 
-I graduated with a Bachelor in Pharmacy from Birla Institute of Technology and Sciences (BITS), Pilani and obtained a masters degree in bioinformatics from the International Institute of Information Technology, Hyderabad (IIITH).
+I graduated with a Bachelor in Pharmacy from Birla Institute of Technology and Sciences (BITS), Pilani and obtained a Masters degree in bioinformatics from the International Institute of Information Technology, Hyderabad (IIITH).
 
 In my free time I go climbing, binge shows and play guitar. I'm also a follower of F1 and football. 
 
